@@ -100,8 +100,8 @@ body{
     margin: 10px;
 }
 
-.meals-list h1{
-    font-weight: bold;
+.meals-list-item h1{
+    font-weight: 15px;
     font-size: 20px;
     color: #1a1a1a;
     padding-left: 10px;
